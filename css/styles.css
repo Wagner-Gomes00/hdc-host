@@ -20,14 +20,14 @@ p {
 .navbar-container {
     width: 100%;
     height: 80px;
-    background-color: #232a31;
+    background-color: #ffffff;
     padding: 0 2em;
     position: relative;
     box-sizing: border-box;
 }
 
 .logo {
-    width: 50px;
+    width: 100px;
     margin-top: 15px;
 }
 
@@ -52,7 +52,7 @@ nav {
 }
 
 .navbar-items li a {
-    color: #fff;
+    color: #e90909ea;
     text-decoration: none;
     transition: 0.5s;
 }
@@ -63,7 +63,7 @@ nav {
 
 .default-btn {
     padding: 15px 20px;
-    background-color: #2cc76a;
+    background-color: #000000;
     border-radius: 5px;
     color: #fff;
 }
